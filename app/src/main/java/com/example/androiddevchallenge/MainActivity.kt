@@ -159,9 +159,8 @@ fun View() {
                 Color(0xFFF7786E),
                 Color(0xFFEF5362),
                 Color(0xFFCD0645)
-            ),
-
             )
+        )
         IconButton(
             onClick = {
                 if (controlState == AnimateState.STOP) {
