@@ -1,27 +1,27 @@
-# Template repository
+# Cooking Countdown Timer App
 
-Template repository for the Jetpack Compose [#AndroidDevChallenge](https://developer.android.com/dev-challenge).
+![Workflow result](https://github.com/emedinaa/compose-challenge-week2/workflows/Check/badge.svg)
+![Kotlin version](https://img.shields.io/badge/Kotlin-1.4.30-red) ![Compose version](https://img.shields.io/badge/Compose-1.0.0--beta01-blueviolet)
+![Gradle](https://img.shields.io/badge/Gradle%20Plugin-7.0.0--alpha08-green)
 
-## Getting started
-Copy this repository by pressing the "Use this template" button in Github.
-Clone your repository and open it in the latest [Android Studio (Canary build)](https://developer.android.com/studio/preview).
 
-## Submission requirements
-- Follow the challenge description on the project website: [developer.android.com/dev-challenge](https://developer.android.com/dev-challenge)
-- All UI should be written using Jetpack Compose
-- The Github Actions workflow should complete successfully
-- Include two screenshots of your submission in the [results](results) folder. The names should be
-  screenshot_1.png and screenshot_2.png.
-- Include a screen record of your submission in the [results](results) folder. The name should be
-  video.mp4
-- Replace the contents of [README.md](README.md) with the contents of [README-template.md](README-template.md) and fill out the template.
+## :scroll: Description
+A small proof of concept of  an app related to Countdown timer. 
 
-## Code formatting
-The CI uses [Spotless](https://github.com/diffplug/spotless) to check if your code is formatted correctly and contains the right licenses.
-Internally, Spotless uses [ktlint](https://github.com/pinterest/ktlint) to check the formatting of your code.
-To set up ktlint correctly with Android Studio, follow one of the [listed setup options](https://github.com/pinterest/ktlint#-with-intellij-idea).
 
-Before committing your code, run `./gradlew app:spotlessApply` to automatically format your code.
+## :bulb: Motivation and Context
+It was a great opportunity to continue learning about jetpack compose and make a simple app where  we  forget the xml format and adopt compose !
+
+
+## :camera_flash: Screenshots
+<!-- You can add more screenshots here if you like -->
+<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+
+## 🐶 : Inspiration
+Cooking Countdown Timer by Kirill Pakhryaev [https://dribbble.com/shots/4772284-Cooking-Countdown-Timer](https://dribbble.com/shots/4772284-Cooking-Countdown-Timer)
+
+## 🎨: Resources
+Material Design icons [https://material.io/resources/icons/](https://material.io/resources/icons/)
 
 ## License
 ```
