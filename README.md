@@ -17,7 +17,7 @@ It was a great opportunity to continue learning about jetpack compose and make a
 <!-- You can add more screenshots here if you like -->
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
 
-## 🐶 : Inspiration
+## 🍜: Inspiration
 Cooking Countdown Timer by Kirill Pakhryaev [https://dribbble.com/shots/4772284-Cooking-Countdown-Timer](https://dribbble.com/shots/4772284-Cooking-Countdown-Timer)
 
 ## 🎨: Resources
