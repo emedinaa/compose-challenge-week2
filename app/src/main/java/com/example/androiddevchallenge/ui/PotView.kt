@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.androiddevchallenge.ui.theme
+package com.example.androiddevchallenge.ui
 
 import androidx.compose.animation.core.FastOutLinearInEasing
 import androidx.compose.animation.core.LinearEasing
@@ -53,6 +53,11 @@ import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.androiddevchallenge.AnimateState
+import com.example.androiddevchallenge.ui.theme.MyTheme
+import com.example.androiddevchallenge.ui.theme.darkBlue34
+import com.example.androiddevchallenge.ui.theme.magentaE8
+import com.example.androiddevchallenge.ui.theme.magentaEF
+import com.example.androiddevchallenge.ui.theme.orangeFE
 
 /**
  * @author : Eduardo Medina
